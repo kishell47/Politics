@@ -188,7 +188,7 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307162302802.png" alt="image-20230716230235747" style="zoom:50%;" />
 
-## T10
+# T10
 
 
 
@@ -199,4 +199,70 @@
 
 
 ## 1 马克思主义的鲜明特征，如果用一句话来概括就是科学性与革命性的统一
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307192041033.png" alt="image-20230719204137953" style="zoom: 67%;" />
+
+
+
+# 多选
+
+
+
+# T11
+
+
+
+## 题目
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307192055389.png" alt="image-20230719205516199" style="zoom:50%;" />
+
+
+
+
+
+## 马克思主义的直接理论来源
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307192106780.png" alt="image-20230719210625669" style="zoom: 67%;" />
+
+# T12
+
+
+
+## 题目
+
+![image-20230719211140957](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307192111157.png)
+
+
+
+## 《资本论》被誉为“工人阶级的圣经”是因为这本著作
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307192125004.png" alt="image-20230719212532913" style="zoom:50%;" />
+
+
+
+# T13
+
+
+
+## 题目
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307192127520.png" alt="image-20230719212742354" style="zoom:50%;" />
+
+
+
+## 马克思一生中的“两个伟大发现”分别是
+
+![image-20230719220831585](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307192208736.png)
+
+
+
+# T14
+
+
+
+## 题目
+
+![image-20230719213820040](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307192138180.png)
+
+
 
