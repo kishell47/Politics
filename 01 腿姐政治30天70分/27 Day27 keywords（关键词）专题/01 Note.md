@@ -16,7 +16,7 @@
 
 
 
-# 单选
+# 单选 1‘
 
 
 
@@ -97,3 +97,71 @@
 # 单选14 1‘  作风建设
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307281023987.png" alt="image-20230728102305914" style="zoom:50%;" />
+
+
+
+# 单选15 1‘  中国传统道德
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307290821685.png" alt="image-20230729082145387" style="zoom: 55%;" />
+
+
+
+# 单选16 1‘  法治国家
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307290851772.png" alt="image-20230729085137627" style="zoom:50%;" />
+
+
+
+# 多选 2‘
+
+
+
+# 多选17 2’ 物质与运动的关系
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307290919656.png" alt="image-20230729091954555" style="zoom:50%;" />
+
+
+
+# 多选18 2’ 社会的基本矛盾
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307290933368.png" alt="image-20230729093332223" style="zoom:50%;" />
+
+
+
+# 多选19 2’ 资本积累
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307291043490.png" alt="image-20230729104318219" style="zoom:50%;" />
+
+
+
+# 多选20 2’  新民主主义革命道路
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307291058459.png" alt="image-20230729105839210" style="zoom:50%;" />
+
+
+
+# 多选21 2’  马克思主义
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307291105379.png" alt="image-20230729110516170" style="zoom:50%;" />
+
+
+
+# 多选22 2’  全面建设社会主义现代化国家
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307291113556.png" alt="image-20230729111343307" style="zoom:50%;" />
+
+# 多选23 2’  中国特色社会主义政治发展道路
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307291123755.png" alt="image-20230729112349490" style="zoom:50%;" />
+
+
+
+# 多选24 2’  一国两制
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307291134008.png" alt="image-20230729113444750" style="zoom:50%;" />
+
+
+
+# 多选25 2’  创新
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307291144812.png" alt="image-20230729114427612" style="zoom:50%;" />
