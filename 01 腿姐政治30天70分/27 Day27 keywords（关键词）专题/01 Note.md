@@ -18,7 +18,7 @@
 
 # 复习
 
-![image-20230731110827212](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307311108702.png)
+![](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307311114604.png)
 
 
 
