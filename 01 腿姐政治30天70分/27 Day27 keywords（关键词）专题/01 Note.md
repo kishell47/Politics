@@ -18,7 +18,7 @@
 
 # 复习
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301339232.png" style="zoom: 60%;" />
+![image-20230730213645017](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307302136870.png)
 
 
 
@@ -30,7 +30,7 @@
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301127722.png" alt="image-20230730112724492" style="zoom: 50%;" />
 
-# 单选2 1‘ 社会存在 ❌
+# 单选2 1‘ 社会存在 ❌✔
 
 
 
@@ -44,25 +44,25 @@
 
 
 
-# 单选4 1’ 货币 ❌
+# 单选4 1’ 货币 ❌✔
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301151651.png" alt="image-20230730115118243" style="zoom:50%;" />
 
 
 
-# 单选5 1’ 资本主义所有制 ❌
+# 单选5 1’ 资本主义所有制 ❌✔
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301158634.png" alt="image-20230730115838349" style="zoom: 50%;" />
 
 
 
-# 单选6 1’  资本积累 ❌
+# 单选6 1’  资本积累 ❌✔
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301203299.png" alt="image-20230730120310998" style="zoom:50%;" />
 
 
 
-# 单选7 1’  社会再生产 ❌
+# 单选7 1’  社会再生产 ❌✔
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301208424.png" alt="image-20230730120801169" style="zoom:50%;" />
 
