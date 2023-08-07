@@ -212,4 +212,10 @@
 
 
 
-# 
+# 多选31 2’  我国实体法律部门
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308072337820.png" alt="image-20230807233758651" style="zoom:50%;" />
+
+
+
+# 多选32 2’  全面依法治国
