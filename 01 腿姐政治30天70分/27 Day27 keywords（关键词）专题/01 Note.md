@@ -203,3 +203,13 @@
 # 多选29 2’  抗日民族统一战线的策略总方针
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308071807841.png" alt="image-20230807180702685" style="zoom:50%;" />
+
+
+
+# 多选30 2’  抗日战争
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308072100749.png" alt="image-20230807210019520" style="zoom:50%;" />
+
+
+
+# 
