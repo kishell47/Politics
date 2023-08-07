@@ -190,4 +190,9 @@
 
 # 多选27 2’  坚持党对人民军队的绝对领导
 
-![image-20230807154736297](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308071547396.png)
+![image-20230807170725099](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308071707225.png)
+
+
+
+# 多选28 2’  新中国成立初期的外交方针
+
