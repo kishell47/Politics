@@ -179,3 +179,15 @@
 # 多选25 2’  创新 ✔
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301337073.png" alt="image-20230730133755691" style="zoom:50%;" />
+
+
+
+# 多选26 2’  改革开放 
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308071531195.png" alt="image-20230807153107033" style="zoom:60%;" />
+
+
+
+# 多选27 2’  坚持党对人民军队的绝对领导
+
+![image-20230807154736297](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308071547396.png)
