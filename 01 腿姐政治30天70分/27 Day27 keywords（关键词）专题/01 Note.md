@@ -197,3 +197,7 @@
 # 多选28 2’  新中国成立初期的外交方针
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308071735333.png" alt="image-20230807173552258" style="zoom:50%;" />
+
+
+
+# 多选29 2’  抗日民族统一战线的策略总方针
