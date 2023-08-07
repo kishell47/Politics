@@ -201,3 +201,5 @@
 
 
 # 多选29 2’  抗日民族统一战线的策略总方针
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308071807841.png" alt="image-20230807180702685" style="zoom:50%;" />
