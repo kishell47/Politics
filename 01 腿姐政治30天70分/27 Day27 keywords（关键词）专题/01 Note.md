@@ -221,3 +221,9 @@
 # 多选32 2’  全面依法治国
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308080025807.png" alt="image-20230808002515614" style="zoom:50%;" />
+
+
+
+# 多选33 2’  中国特色社会主义法治体系
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308080210191.png" alt="image-20230808021039978" style="zoom:60%;" />
