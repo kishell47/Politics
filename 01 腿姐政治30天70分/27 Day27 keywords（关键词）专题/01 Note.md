@@ -18,9 +18,7 @@
 
 # 复习
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308081853288.png" alt="image-20230808185348170" style="zoom: 67%;" />
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308081836973.png" alt="image-20230808183614781" style="zoom: 67%;" />
 
 ![](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307311114604.png)
 
@@ -168,15 +166,15 @@
 
 
 
-# 多选23 2’  中国特色社会主义政治发展道路 ✔
+# 多选23 2’  中国特色社会主义政治发展道路 
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301332150.png" alt="image-20230730133210772" style="zoom:50%;" />
 
 
 
-# 多选24 2’  一国两制 ❌
+# 多选24 2’  一国两制 
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301335314.png" alt="image-20230730133555921" style="zoom:50%;" />
+![image-20230808203438624](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308082034770.png)
 
 
 
