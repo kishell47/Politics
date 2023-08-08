@@ -158,9 +158,9 @@
 
 
 
-# 多选22 2’  全面建设社会主义现代化国家 ❌
+# 多选22 2’  全面建设社会主义现代化国家 
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301329539.png" alt="image-20230730132937184" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308082213356.png" alt="image-20230808221342199" style="zoom:50%;" />
 
 
 
