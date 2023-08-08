@@ -18,6 +18,10 @@
 
 # 复习
 
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308081853288.png" alt="image-20230808185348170" style="zoom: 67%;" />
+
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308081836973.png" alt="image-20230808183614781" style="zoom: 67%;" />
+
 ![](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307311114604.png)
 
 
@@ -176,13 +180,13 @@
 
 
 
-# 多选25 2’  创新 ✔
+# 多选25 2’  创新 
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301337073.png" alt="image-20230730133755691" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308081938129.png" alt="image-20230808193850890" style="zoom: 50%;" />
 
 
 
-# 多选26 2’  改革开放 
+# 多选26 2’  改革开放 ✔
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308071531195.png" alt="image-20230807153107033" style="zoom:60%;" />
 
@@ -190,40 +194,40 @@
 
 # 多选27 2’  坚持党对人民军队的绝对领导
 
-![image-20230807170725099](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308071707225.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308071707225.png" alt="image-20230807170725099" style="zoom:50%;" />
 
 
 
-# 多选28 2’  新中国成立初期的外交方针
+# 多选28 2’  新中国成立初期的外交方针 ✔
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308071735333.png" alt="image-20230807173552258" style="zoom:50%;" />
 
 
 
-# 多选29 2’  抗日民族统一战线的策略总方针
+# 多选29 2’  抗日民族统一战线的策略总方针 ✔
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308071807841.png" alt="image-20230807180702685" style="zoom:50%;" />
 
 
 
-# 多选30 2’  抗日战争
+# 多选30 2’  抗日战争 ✔
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308072201632.png" alt="image-20230807220102433" style="zoom:50%;" />
 
 
 
-# 多选31 2’  我国实体法律部门
+# 多选31 2’  我国实体法律部门 ✔
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308072337820.png" alt="image-20230807233758651" style="zoom:50%;" />
 
 
 
-# 多选32 2’  全面依法治国
+# 多选32 2’  全面依法治国✔
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308080025807.png" alt="image-20230808002515614" style="zoom:50%;" />
 
 
 
-# 多选33 2’  中国特色社会主义法治体系
+# 多选33 2’  中国特色社会主义法治体系✔
 
 <img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308080210191.png" alt="image-20230808021039978" style="zoom:60%;" />
