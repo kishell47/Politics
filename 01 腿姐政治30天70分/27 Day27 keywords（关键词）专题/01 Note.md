@@ -168,13 +168,13 @@
 
 # 多选23 2’  中国特色社会主义政治发展道路 
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202307301332150.png" alt="image-20230730133210772" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308082104214.png" alt="image-20230808210443080" style="zoom:50%;" />
 
 
 
 # 多选24 2’  一国两制 
 
-![image-20230808203438624](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308082034770.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308082034770.png" alt="image-20230808203438624" style="zoom:50%;" />
 
 
 
