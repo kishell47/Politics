@@ -12,7 +12,7 @@
 
 ### 题目
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308202042047.png" alt="image-20230820204240967" style="zoom: 60%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202308220855305.png" alt="image-20230822085519219" style="zoom:67%;" />
 
 ### 解析
 
