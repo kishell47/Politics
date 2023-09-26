@@ -4,19 +4,19 @@
 
 # 复习
 
-![image-20230926091221995](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309260912041.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309260912041.png" alt="image-20230926091221995" style="zoom:50%;" />
 
 
 
 # 思想道德与法治 总体概述
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309251705863.png" alt="image-20230925170548707" style="zoom:67%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309251705863.png" alt="image-20230925170548707" style="zoom: 50%;" />
 
 
 
 # 绪论
 
-![image-20230925183128420](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309251831484.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309251831484.png" alt="image-20230925183128420" style="zoom:50%;" />
 
 
 
@@ -28,5 +28,5 @@
 
 # 02 解析+答案
 
-![image-20230926091148782](https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309260911890.png)
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309260911890.png" alt="image-20230926091148782" style="zoom: 60%;" />
 
