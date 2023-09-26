@@ -4,7 +4,7 @@
 
 # 复习
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309261024748.png" alt="image-20230926102421673" style="zoom:50%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309261035829.png" alt="image-20230926103542745" style="zoom:50%;" />
 
 
 
