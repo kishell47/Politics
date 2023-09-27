@@ -1,18 +1,18 @@
 # 背诵
 
-<img src="C:\Users\51532\Desktop\Politics\04 每日一题\10 D87 D13 【史纲】\02 Pic\00 背诵.png" alt="image-20230927143056877" style="zoom:60%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309271801040.png" alt="image-20230927180117985" style="zoom:60%;" />
 
 
 
 # 题目
 
-<img src="C:\Users\51532\Desktop\Politics\04 每日一题\10 D87 D13 【史纲】\02 Pic\01 题目.png" alt="image-20230927141727549" style="zoom:60%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309271802538.png" alt="image-20230927180206474" style="zoom:60%;" />
 
 
 
 # 解析+答案
 
-<img src="C:\Users\51532\Desktop\Politics\04 每日一题\10 D87 D13 【史纲】\02 Pic\02 答案解析.png" alt="image-20230927143116184" style="zoom:60%;" />
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202309271802597.png" alt="image-20230927180233526" style="zoom:60%;" />
 
 
 
