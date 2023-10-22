@@ -6,9 +6,7 @@
 
 # 题目
 
-<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310212212229.png" alt="image-20231021221258165" style="zoom:50%;" />
-
-
+<img src="https://cvp.oss-cn-shanghai.aliyuncs.com/picgo/202310221132757.png" alt="image-20231022113258617" style="zoom:50%;" />
 
 # 解析+答案
 
